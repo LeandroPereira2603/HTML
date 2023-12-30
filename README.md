@@ -19,5 +19,5 @@
 
 ## 📚 Tópicos (link wiki)  
 ### Anotaçôes
-* [Tags] 
+* [Tags](https://github.com/LeandroPereira2603/HTML/wiki/TAGS) 
 
