@@ -17,7 +17,7 @@
 * [💻 site :  ] ☕ [ ]
 
 
-## 📚 Tópicos (link wiki)  
+## 📚 Tópicos : estudos (link wiki)  
 ### Anotaçôes
 * [Tags](https://github.com/LeandroPereira2603/HTML/wiki/TAGS) 
 
