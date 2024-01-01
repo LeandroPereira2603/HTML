@@ -4,6 +4,16 @@
 <p> Aqui terá todos os meus reposiórios criados sobre HTML. </p>
  
 
+<strong> Legenda :</strong>
+
+|Descrição | Logotipo   | Total |
+|:--: |:--:|:--:|
+| Projetos Abandonados | 🔴 | 0 |
+| Projetos em desenvolvimento    |  🟡  | 0 |
+| Projetos concluídos    |  🟢  | 0 |
+| Meus projetos Favoritos | ⭐ | 0 |
+| Código Fonte - local do repositório | ☕| 0 |
+
 <!---
 <strong> Os significados dos logotipos :</strong>
 |Descrição | Logotipo   |
