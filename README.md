@@ -14,12 +14,14 @@
 
 
 ## 💻 Tópicos (Github Pages) 
+
 ### Prática : 
 * [💻 site :  ] ☕ [ ]
 
 
-## 📚 Tópicos de estudo  
+## 📚 Tópicos de estudo
+  
 ### Tags 
-* 🟡 [Tags :  para criação de campos para layount ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
-* 🟡 [Tags :  para alterar o layount](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
+* 🟡 [Criação de campo ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
+* 🟡 [Alteração de estilo ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
 
