@@ -2,7 +2,7 @@
 
 ## Tag
 
-<p> A sintaxe da tag body : significa o espaço destinado ao layout do corpo do site .  </p>
+<p> A sintaxe da tag body : significa o espaço reservado para ao layout do corpo do site .  </p>
 
 ```html
 
@@ -13,7 +13,7 @@
 </body>
 
 ```
-<p> A tag table : significa o espaço destinado para o  layout de criação de tabelas . 
+<p> A tag table : significa o espaço reservado para o  layout de criação de tabelas . 
 
 ```Html
 
@@ -25,7 +25,7 @@
 
 ```
 
-<p> A tag section : significa o espaço para layout destinado a criação de uma seção do site. </p>
+<p> A tag section : significa o espaço para layout reservado a criação de uma seção do site. </p>
 
 ```Html
 
