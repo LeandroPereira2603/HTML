@@ -19,7 +19,7 @@
 
 
 ## 📚 Tópicos : estudos (link wiki)  
-### DOM (Document Object Model): Tags 
-* [Tags para criar campos para layount ](https://github.com/LeandroPereira2603/HTML/wiki/DOM-tags-:-para--criar-campo-para--o-layout)
-* [Tags para alterar o layount]
+### DOM (Document Object Model): Tag
+* [Tags :  para criar campos para layount ](https://github.com/LeandroPereira2603/HTML/wiki/DOM-tags-:-para--criar-campo-para--o-layout)
+* [Tags :  para alterar o layount]
 
