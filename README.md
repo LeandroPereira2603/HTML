@@ -14,7 +14,7 @@
 
 
 ## 💻 Tópicos (Github Pages) 
-### Prática de programação  : 
+### Prática : 
 * [💻 site :  ] ☕ [ ]
 
 
