@@ -19,6 +19,6 @@
 
 
 ## 📚 Tópicos : estudos (link wiki)  
-### Anotaçôes
+### DOM (Document Object Model): Tags 
 * [Tags](https://github.com/LeandroPereira2603/HTML/wiki/TAGS) 
 
