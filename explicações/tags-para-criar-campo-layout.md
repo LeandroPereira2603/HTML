@@ -2,7 +2,7 @@
 
 <p> 
 
-   formata o texto com parágrafo .
+   formata o texto com parágrafo 
  
 </p> 
 
