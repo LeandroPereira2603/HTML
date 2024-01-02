@@ -19,7 +19,7 @@
 
 
 ## 📚 Tópicos : estudos   
-### Arquivo do repositório : explicaçôes ( extensão md) 
+### Links de acesso ao arquivo do repositório explicaçôes (extensão : md)) 
 * 🟡 [Tags :  para criação de campos para layount ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
 * 🟡 [Tags :  para alterar o layount](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
 
