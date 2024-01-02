@@ -14,12 +14,12 @@
 
 
 ## 💻 Tópicos (Github Pages) 
-### Prática de programação  : 
+### Prática : 
 * [💻 site :  ] ☕ [ ]
 
 
 ## 📚 Tópicos : estudos (link wiki)  
-### DOM ( Document Object Model ): Tag
-* [Tags :  para criar campos para layount ](https://github.com/LeandroPereira2603/HTML/wiki/DOM-tags-:-para--criar-campo-para--o-layout)
+### DOM ( Document Object Model ) : Tag
+* [Tags :  para criação de campos para layount ](https://github.com/LeandroPereira2603/HTML/wiki/DOM-tags-:-para--criar-campo-para--o-layout)
 * [Tags :  para alterar o layount]
 
