@@ -21,7 +21,6 @@
      
     <!-- Espaço : tabela -- >
     
-    
  </table>
 
 ```
@@ -32,9 +31,7 @@
 
 <section>
   
-
    <!-- Espaço : seção-- >
-
 
 </section>
 
