@@ -2,7 +2,7 @@
 
 <p> 
 
- formata o texto com parágrafo 
+ formatar o texto com parágrafo 
  
 </p> 
 
@@ -13,7 +13,7 @@
 
 <strong>
 
- Formata o texto em negrito 
+ Formatae o texto em negrito 
 
 </strong >
 
