@@ -1,6 +1,6 @@
 
 
-## Body 
+## Tag
 
 <p> A sintaxe da tag body : significa o espaço para o layout do corpo do site .  </p>
 
