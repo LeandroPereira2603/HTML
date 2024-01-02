@@ -1,5 +1,5 @@
 # HTML
- Marcação de texto paraa desenvolvimento de site
+HTML (HyperText Markup Language ) Linguagen de marcação hypertexto 
  
 <p> Aqui terá todos os meus reposiórios criados sobre HTML. </p>
 
