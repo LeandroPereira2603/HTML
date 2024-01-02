@@ -1,8 +1,7 @@
 # HTML
- Marcação de texto pa ra desenvolvimento de site
+ Marcação de texto paraa desenvolvimento de site
  
 <p> Aqui terá todos os meus reposiórios criados sobre HTML. </p>
- 
 
 <strong> Legenda :</strong>
 
