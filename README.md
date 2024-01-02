@@ -19,7 +19,7 @@
 
 
 ## 📚 Tópicos : estudos (link wiki)  
-### DOM ( Document Object Model ) : Tag
+### Tag
 * [Tags :  para criação de campos para layount ](https://github.com/LeandroPereira2603/HTML/wiki/DOM-tags-:-para--cria%C3%A7%C3%A3o-de-campos-para--o-layout)
 * [Tags :  para alterar o layount]
 
