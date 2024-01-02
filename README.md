@@ -20,6 +20,6 @@
 
 ## 📚 Tópicos : estudos (link wiki)  
 ### Tag
-* 🟡 [Tags :  para criação de campos para layount ](https://github.com/LeandroPereira2603/HTML/wiki/DOM-tags-:-para--cria%C3%A7%C3%A3o-de-campos-para--o-layout)
+* 🟡 [Tags :  para criação de campos para layount ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
 * 🟡 [Tags :  para alterar o layount]
 
