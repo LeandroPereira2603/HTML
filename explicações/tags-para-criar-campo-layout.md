@@ -13,7 +13,7 @@
 
 <strong>
 
- Formatae o texto em negrito 
+ Formatar o texto em negrito 
 
 </strong >
 
