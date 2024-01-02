@@ -25,7 +25,7 @@
 
 ```
 
-<p> A tag section : significa o espaço para layout reservado a criação de uma seção do site. </p>
+<p> A tag section : significa o espaço reservado para a criação de uma seção do site. </p>
 
 ```Html
 
