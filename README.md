@@ -8,7 +8,7 @@
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
 | Em desenvolvimento    |  🟡  | 2 |
-| Concluído    |  🟢  | 0 |
+| Concluído    |  💻 | 0 |
 | Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 0 |
 
