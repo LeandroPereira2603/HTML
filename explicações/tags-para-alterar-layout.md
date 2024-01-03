@@ -4,7 +4,7 @@
 
 <p> 
 
- formatar o texto com parágrafo 
+ serve para formatar o texto com parágrafo 
  
 </p> 
 
@@ -15,7 +15,7 @@
 
 <strong>
 
- Formatar o texto em negrito 
+ serve para formatar o texto em negrito 
 
 </strong >
 
