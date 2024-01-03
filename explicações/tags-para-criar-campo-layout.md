@@ -5,7 +5,7 @@
 
 <body>
 
-  <!-- Espaço reservado : corpo do site  -- >
+  <!-- Espaço reservado : corpo do site  -->
 
 </body>
 
