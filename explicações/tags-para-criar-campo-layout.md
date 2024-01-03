@@ -5,7 +5,7 @@
 
 <body>
 
-  <!-- Espaço : corpo do site  -- >
+  <!-- Espaço reservado : corpo do site  -- >
 
 </body>
 
@@ -15,7 +15,7 @@
 
  <table>
      
-    <!-- Espaço : tabela -- >
+    <!-- Espaço reservado : tabela -- >
     
  </table>
 
@@ -25,7 +25,7 @@
 
 <section>
   
-   <!-- Espaço : seção-- >
+   <!-- Espaço reservado : seção-- >
 
 </section>
 
