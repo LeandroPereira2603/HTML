@@ -55,7 +55,7 @@
 
 <div>
 
-   <!-- divisoria do site , uma tag muito utilizado pelos programadores  -->
+   <!-- divisoria do site   -->
 
 </div>
 
