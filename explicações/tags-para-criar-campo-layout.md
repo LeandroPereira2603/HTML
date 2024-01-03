@@ -55,7 +55,7 @@
 
 <div>
 
-   <!-- divisoria do site   -->
+   <!-- Divisoria do site   -->
 
 </div>
 
