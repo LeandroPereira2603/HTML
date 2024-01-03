@@ -4,7 +4,7 @@
 
 <p> 
 
- <!--serve para formatar o texto com parágrafo--> 
+ <!-- formatar o texto com parágrafo--> 
  
 </p> 
 
@@ -15,7 +15,7 @@
 
 <strong>
 
- <!--serve para formatar o texto em negrito--> 
+ <!-- formatar o texto em negrito--> 
 
 </strong >
 
