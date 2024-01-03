@@ -59,3 +59,13 @@
 
 </div>
 
+```html 
+
+<article> 
+
+    <!-- Artigo para o site  -->
+
+</article>
+
+```
+
