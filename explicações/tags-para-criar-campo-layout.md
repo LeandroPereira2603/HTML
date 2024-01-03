@@ -5,7 +5,7 @@
 
 <body>
 
-  <!-- Espaço reservado : corpo do site  -->
+  <!-- corpo do site  -->
 
 </body>
 
@@ -15,7 +15,7 @@
 
  <table>
      
-    <!-- Espaço reservado : tabela -->
+    <!-- tabela -->
     
  </table>
 
@@ -25,7 +25,7 @@
 
 <section>
   
-   <!-- Espaço reservado : seção -->
+   <!-- seção -->
 
 </section>
 
@@ -35,7 +35,7 @@
 
 <aside>
 
-   <!-- Espaço reservado : Lateral do site -->
+   <!-- Lateral do site -->
 
 </aside>
 
@@ -45,7 +45,7 @@
 
 <footer>
 
-   <!-- Espaço reservado : Rodapé do site -->
+   <!-- Rodapé do site -->
 
 </footer>
 
@@ -55,7 +55,7 @@
 
 <div>
 
-   <!-- Espaço reservado : divisoria do site , uma tag muito utilizado pelos programadores  -->
+   <!-- divisoria do site , uma tag muito utilizado pelos programadores  -->
 
 </div>
 
