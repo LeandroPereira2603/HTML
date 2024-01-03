@@ -25,8 +25,27 @@
 
 <section>
   
-   <!-- Espaço reservado : seção-- >
+   <!-- Espaço reservado : seção -->
 
 </section>
 
 ```
+
+```html 
+
+<aside>
+
+   <!-- Espaço reservado : Lateral do site -->
+
+</aside>
+
+```
+
+```html 
+
+<footer>
+
+   <!-- Espaço reservado : Rodapé do site -->
+
+</footer>
+
