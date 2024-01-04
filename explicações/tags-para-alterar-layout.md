@@ -41,3 +41,13 @@
 
 ```
 
+```html 
+
+<abbr>
+
+   <!-- Formata palavra em uma sigla abreviada -->
+
+</abbr>
+
+```
+
