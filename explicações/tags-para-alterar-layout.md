@@ -15,10 +15,29 @@
 
 <strong>
 
- <!-- Formata o texto em negrito--> 
+ <!-- Formata o texto em negrito --> 
 
 </strong >
 
 ```
 
+```html
+
+<audio> 
+   
+    <!-- Formatação para saida de áudio -->
+
+</audio>
+
+```
+
+```html 
+
+<a>
+
+   <!-- Formatar o texto para o acesso de link -->
+
+</a>
+
+```
 
