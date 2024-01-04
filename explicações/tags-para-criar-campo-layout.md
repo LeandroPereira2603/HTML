@@ -71,13 +71,5 @@
 
 ```
 
-```html
 
-<audio> 
-   
-    <!-- Campo para saida de áudio para o site -->
-
-</audio>
-
-```
 
