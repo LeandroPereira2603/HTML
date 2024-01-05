@@ -1,4 +1,4 @@
-## Formatação de estilo 
+## Tag para formatação de estilo 
 
 ```html 
 
@@ -51,7 +51,7 @@
 
 ```
 
-## Divisória de espaço para o layout 
+## Tag para a divisória de espaço para o layout 
 
 ```html
 
