@@ -65,7 +65,7 @@
 
 <div>
 
- <!-- campo de Divisória do site , para um tema especifico -->
+ <!-- Campo de Divisória do site , para um tema especifico -->
 
 </div>
 
