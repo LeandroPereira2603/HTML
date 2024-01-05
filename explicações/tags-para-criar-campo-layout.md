@@ -1,4 +1,4 @@
-## Estrutura semântica base do html </p>
+## Estrutura semântica base do HTML </p>
 
 
 
