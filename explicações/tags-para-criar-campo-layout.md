@@ -32,7 +32,7 @@
 
 ```
 
-<p> Exemplo de resultado finalizado com o complemento do css . </p>
+<p> Resultado finalizado com o complemento do css . </p>
 
 <br>
 <div align="center" >
