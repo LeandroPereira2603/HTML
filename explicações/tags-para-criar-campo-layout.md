@@ -4,7 +4,7 @@
 
 * A tag pode ser envelopada por outra tag .
 * Não tem limites de envelopamentos .
-* Sempre tem que abrir <> e  fechar a tag </> , senão ,não vai indentifica-la .
+* Sempre tem que abrir <> e fechar a tag </> , senão o navegador não irá indentifica-la .
 
 ### Hierarquia da tag : 
 
