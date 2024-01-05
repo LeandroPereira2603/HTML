@@ -51,7 +51,7 @@
 
 ```
 
-```htlm
+```html
 
 <table>
 
