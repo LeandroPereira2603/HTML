@@ -13,16 +13,14 @@
 | Código Fonte - local do repositório | ☕| 0 |
 
 
-# 💻 Prática
-
-## Sites ( Github Pages ) 
-
-* [💻 site :  ] ☕ [ ]
-
-
 # 📚 Tópicos de estudo
   
 ### Tag
 * 🟡 [Criação de campo ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
 * 🟡 [Alteração de estilo ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-alterar-layout.md)
 
+# 💻 Prática
+
+## Sites ( Github Pages ) 
+
+* [💻 site :  ] ☕ [ ]
