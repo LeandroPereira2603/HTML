@@ -1,6 +1,6 @@
 ## Tag
 
- <p> Tags para formatação de estilo </p>
+ <p> Tags para formatação de estilo : </p>
 
 ```html 
 
@@ -53,7 +53,7 @@
 
 ```
 
-<p> Tags destinadas para a divisória de espaçamento do site , para serem formatadas no css </p>
+<p> Tags destinadas para a divisória de espaçamento do site , para serem formatadas no css : </p>
 
 ```html
 
