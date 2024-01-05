@@ -51,7 +51,7 @@
 
 ```
 
-## Espaço para layout 
+## Divisória de espaço para o layout 
 
 ```html
 
