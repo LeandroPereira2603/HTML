@@ -15,11 +15,32 @@
 
 ```
 
+```html
+
+<header>
+
+  <!-- cabeçalho do site  -->
+
+</header>
+
+```
+
+```html
+
+<nav>
+
+  <!-- menu de navegação do site -->
+
+</nav>
+
+```
+
+
 ```Html
 
 <section>
   
-   <!-- seção -->
+   <!-- seção do site -->
 
 </section>
 
@@ -37,6 +58,16 @@
 
 ```html 
 
+<article> 
+
+    <!-- Artigo para o site  -->
+
+</article>
+
+```
+
+```html 
+
 <footer>
 
    <!-- Rodapé do site -->
@@ -45,18 +76,9 @@
 
 ```
 
-```html
 
 
-```html 
 
-<article> 
-
-    <!-- Artigo para o site  -->
-
-</article>
-
-```
 
 
 
