@@ -43,13 +43,6 @@
 
 ```html
 
-<div>
-
-   <!-- Divisoria do site   -->
-
-</div>
-
-```
 
 ```html 
 
