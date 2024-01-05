@@ -1,5 +1,7 @@
 ## Estrutura semântica base do HTML </p>
 
+<img src="explicaçôes/imagem/estrutura-semantica-html.png" alt="Estrutura semântica base do HTML">
+
 
 
 ```html
