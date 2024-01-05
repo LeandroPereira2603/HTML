@@ -1,11 +1,7 @@
 ## Estrutura semântica base do HTML </p>
-<br>
-<div align="center" >
-<img src="https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/imgem/estrutura-semantica-html.png" alt="Estrutura semântica base do HTML">
-</div>
-<br>
 
-###  Definindo o envelopamento de tags de hierarquia do exemplo da imagem :
+
+###  Definindo a hierarquia de  envelopamento de tags :
 
 ```html
 
@@ -28,6 +24,13 @@
 </body>
 
 ```
+<br>
+<div align="center" >
+<img src="https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/imgem/estrutura-semantica-html.png" alt="Estrutura semântica base do HTML">
+</div>
+<br>
+
+
 ### Definição apropriada de cada tag :
 ```html
 
