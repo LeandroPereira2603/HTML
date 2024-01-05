@@ -5,22 +5,28 @@
 </div>
 <br>
 
-### Exemplo de definição de envelopamento de tags de hierarquia :
+###  definindo o envelopamento de tags de hierarquia do exemplo da imagem :
 
 ```html
 
 <body>
-  <header>
-    <nav> </nav>
-  </header>
-<section>
-   <aside> </aside>
-   <article> </article>
-</section>
 
-<footer> </footer>
+  <header> </header>
+  
+  <nav> </nav>
+  
+  <section>
+
+      <article> </article>
+
+  </section>
+  
+  <aside> </aside>
+  
+  <footer> </footer>
 
 </body>
+
 ```
 ### Definição apropriada de cada tag :
 ```html
