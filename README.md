@@ -16,7 +16,7 @@
 # 📚 Tópicos de estudo
   
 ### Tag
-* 🟡 [Criação para estrutura semântica do html](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
+* 🟡 [Estrutura semântica do html](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
 * 🟡 [Formatação de estilo ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-alterar-layout.md)
 
 # 💻 Prática
