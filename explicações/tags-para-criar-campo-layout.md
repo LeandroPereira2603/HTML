@@ -1,5 +1,5 @@
 
-## Regras de sintaxe :
+## Regras de sintaxe 
 
 * A tag pode ser envelopada por outra tag .
 * Não tem limites de envelopamentos .
