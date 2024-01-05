@@ -6,7 +6,7 @@
 * Não tem limites de envelopamentos .
 * Sempre tem que abrir <> e fechar a tag </> , senão o navegador não irá indentifica-la .
 
-### Hierarquia da tag : 
+### Hierarquia da tag 
 
 <p> Exemplo : </p>
 
@@ -32,7 +32,7 @@
 
 ```
 
-<p> Exemplo de resultado com o complemento do css : </p>
+<p> Exemplo de resultado com o complemento do css . </p>
 
 <br>
 <div align="center" >
