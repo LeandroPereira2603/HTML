@@ -1,4 +1,4 @@
-## Estrutura base do site </p>
+## Estrutura semântica base do site </p>
 
 
 
