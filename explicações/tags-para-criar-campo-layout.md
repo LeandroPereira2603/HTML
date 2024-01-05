@@ -40,7 +40,8 @@
 <br>
 
 
-### Definição de uso apropriada de cada tag 
+<p> Definição de uso apropriada de cada tag </p>
+
 ```html
 
 <body>
