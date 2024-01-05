@@ -51,3 +51,23 @@
 
 ```
 
+```htlm
+
+<table>
+
+  <!-- Criação para tabela -->
+
+</table>
+
+```
+
+```html
+
+<div>
+
+ <!-- campo de Divisória do site , para um tema especifico -->
+
+</div>
+
+
+
