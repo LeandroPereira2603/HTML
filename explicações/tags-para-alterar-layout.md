@@ -1,4 +1,6 @@
-## Tags para formatação de estilo 
+## Tag
+
+ <p> Tags para formatação de estilo </p>
 
 ```html 
 
@@ -51,7 +53,7 @@
 
 ```
 
-## Tags para a divisória de espaçamento do site para serem formatadas no css 
+<p> Tags destinadas para a divisória de espaçamento do site , para serem formatadas no css </p>
 
 ```html
 
