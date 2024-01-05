@@ -1,6 +1,6 @@
 ## Estrutura semântica base do HTML </p>
 
-### Regras :
+### Regras de sintaxe :
 
 * A tag pode ser envelopada por outra tag .
 * Não tem limites de envelopamentos .
