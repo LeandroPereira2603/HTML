@@ -1,6 +1,6 @@
 ## Tag
 
- <p> Tags com a formatação pronta de estilo : </p>
+ <p> Tags com a formatação pronta : </p>
 
 ```html 
 
