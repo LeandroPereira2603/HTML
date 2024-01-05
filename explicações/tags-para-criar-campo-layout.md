@@ -40,7 +40,7 @@
 <br>
 
 
-### Definição apropriada de cada tag 
+### Definição de uso apropriada de cada tag 
 ```html
 
 <body>
