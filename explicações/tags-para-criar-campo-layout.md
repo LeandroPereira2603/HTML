@@ -1,7 +1,13 @@
 ## Estrutura semântica base do HTML </p>
 
+### Regras :
 
-###  Definindo a hierarquia de  envelopamento de tags :
+* A tag pode ser envelopada por outra tag .
+* Não tem limites de envelopamentos .
+* Sempre tem que abrir <> e  fechar a tag </> , senão ,não bai indentifica-la .
+
+### Hierarquia da tag : 
+
 
 ```html
 
@@ -24,6 +30,9 @@
 </body>
 
 ```
+
+<p> Resultado junto com a definição de estilo de layout do css : </p>
+
 <br>
 <div align="center" >
 <img src="https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/imgem/estrutura-semantica-html.png" alt="Estrutura semântica base do HTML">
