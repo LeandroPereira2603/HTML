@@ -13,16 +13,6 @@
 
 ```Html
 
- <table>
-     
-    <!-- tabela -->
-    
- </table>
-
-```
-
-```Html
-
 <section>
   
    <!-- seção -->
