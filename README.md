@@ -7,7 +7,7 @@
 |Descrição | Logotipo   | Total |
 |:--: |:--:|:--:|
 | Abandonado | 🔴 | 0 |
-| Em desenvolvimento    |  🟡  | 1 |
+| Em desenvolvimento    |  🟡  | 0 |
 | Concluído    |  💻 | 0 |
 | Favorito | ⭐ | 0 |
 | Código Fonte - local do repositório | ☕| 0 |
@@ -17,7 +17,7 @@
   
 ### Sobre
 * [Regras de sintaxe / estrutura semântica base do HTML](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
-* 🟡 [Tag](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-alterar-layout.md)
+* [Tag](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-alterar-layout.md)
 
 # 💻 Prática
 
