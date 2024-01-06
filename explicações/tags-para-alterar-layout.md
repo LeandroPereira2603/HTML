@@ -1,6 +1,6 @@
 ## Tag
 
- <p> Tags com a formatação pré-definida , mas pode ser alterado no css : </p>
+ <p> Tags para formatação de texto  </p>
 
 ```html 
 
@@ -43,7 +43,7 @@
 
 ```
 
-<p> Tags para estilizar no css : </p>
+<p> Tags para separação de conteudo  </p>
 
 ```html
 
