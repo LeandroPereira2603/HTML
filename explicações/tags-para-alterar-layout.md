@@ -23,16 +23,6 @@
 
 ```
 
-```html
-
-<audio> 
-   
-    <!-- Formatação para saida de áudio -->
-
-</audio>
-
-```
-
 ```html 
 
 <a>
@@ -73,5 +63,17 @@
 
 </div>
 
+
+```
+
+```html
+
+<audio> 
+   
+    <!-- Formatação para saida de áudio -->
+
+</audio>
+
+```
 
 
