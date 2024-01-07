@@ -2,8 +2,8 @@
 ## Regras de sintaxe 
 
 * A tag pode ser envelopada por outra tag .
-* Não tem limites de envelopamentos .
-* Sempre tem que abrir <> e fechar a tag </> , senão o browser "navegador" não irá indentifica-la .
+* Não tem limites de envelopamentos de tags.
+* Sempre tem que abrir <> e fechar a tag </> , senão o interpretador da sintaxe html ,que é o navegador "browse" não irá indentifica-la .
 
 ## Estrutura semântica base do HTML </p>
 
