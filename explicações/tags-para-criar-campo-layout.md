@@ -3,7 +3,7 @@
 
 * A tag pode ser envelopada por outra tag .
 * Não tem limites de envelopamentos de tags.
-* Sempre tem que abrir <> e fechar a tag </> , senão o interpretador da sintaxe html ,que é o navegador "browser" não irá indentifica-la .
+* Sempre tem que abrir <> e fechar a tag </> , senão o navegador "browser" não vai indentifica-la . 
 
 ## Estrutura semântica base do HTML </p>
 
