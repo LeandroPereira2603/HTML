@@ -19,7 +19,7 @@
   
   <section>
 
-      <article> </article>
+      <article>  </article>
 
   </section>
   
@@ -41,78 +41,6 @@
 
 
 <p> Definição de uso apropriada de cada tag :  </p>
-
-```html
-
-<body>
-
-  <!-- corpo do site  -->
-
-</body>
-
-```
-
-```html
-
-<header>
-
-  <!-- cabeçalho do site  -->
-
-</header>
-
-```
-
-```html
-
-<nav>
-
-  <!-- menu de navegação do site -->
-
-</nav>
-
-```
-
-
-```Html
-
-<section>
-  
-   <!-- seção do site -->
-
-</section>
-
-```
-
-```html 
-
-<aside>
-
-   <!-- Lateral do site -->
-
-</aside>
-
-```
-
-```html 
-
-<article> 
-
-    <!-- Artigo para o site  -->
-
-</article>
-
-```
-
-```html 
-
-<footer>
-
-   <!-- Rodapé do site -->
-
-</footer>
-
-```
-
 
 
 
