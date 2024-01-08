@@ -40,7 +40,7 @@
 <br>
 
 
-<p> Definição de uso apropriada de cada tag :  </p>
+
 
 
 
