@@ -1,6 +1,6 @@
 # HTML
  
-<p> Aqui terá todas as minhas anotações sobre o HTML. </p>
+<p> Aqui terá todas os meus repositórios sobre o HTML. </p>
 
 <strong> Legenda :</strong>
 
