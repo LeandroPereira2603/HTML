@@ -16,8 +16,8 @@
 # 📚 Tópicos de estudo
   
 ### Sobre
-* [Regras de sintaxe / estrutura semântica base do HTML](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
-* [Conheçendo todas as ag](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-alterar-layout.md)
+* [ Regras de sintaxe / estrutura semântica base do HTML](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-criar-campo-layout.md)
+* [ Conhecendo todas as tags ](https://github.com/LeandroPereira2603/HTML/blob/main/explica%C3%A7%C3%B5es/tags-para-alterar-layout.md)
 
 # 💻 Prática
 
