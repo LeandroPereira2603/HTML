@@ -41,8 +41,29 @@
 
 
 
+<!-- medidas para este caso preenche a tela em qualquer tamanho do dispositivo usando vh ,:definindo 
+
+header 25% 
+nav 5%
+body 60%
+Footer 10 vh% 
+
+25+5+60+10 = 100% 
 
 
+grid {
+
+calc(25 * 25 ²)/ 3 ;
+
+}
+
+-->
+
+
+
+
+
+ 
 
 
 
