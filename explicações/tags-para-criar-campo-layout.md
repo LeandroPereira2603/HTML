@@ -31,7 +31,7 @@
 
 ```
 
-<p> Resultado finalizado com o complemento do css . </p>
+<p> Resultado finalizado com o complemento css . </p>
 
 <br>
 <div align="center" >
