@@ -23,4 +23,4 @@
 
 ## Sites ( Github Pages ) 
 
-* [💻 site : Estrutura semântica  ](https://leandropereira2603.github.io/site-estrutura-semantica/) ☕ [Site : Estrutura semântica  ](https://leandropereira2603.github.io/site-estrutura-semantica/)
+* [💻 site : Estrutura semântica  ](https://leandropereira2603.github.io/site-estrutura-semantica/) ☕ [Site : Estrutura semântica  ](https://github.com/LeandroPereira2603/site-estrutura-semantica)
